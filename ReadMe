@@ -3,3 +3,4 @@ TLY fonunda %2den büyük düşüşler outlier görünüyor. (histogramda)
 TEFAStan 90 günlük veri çekilebiliyor. Son bir yıllık veri çekebilmek için 90 günlük chunklar halinde veri çekmek gerekiyor.
 Kurulacak program şu şartlarda alarm verecek: 1: %2den büyük düşüş var, 2: %2den büyük düşüşten sonra 1 günlük ek düşüş, 2: %2den büyük düşüşten sonra 2 günlük ek düşüş
 İşte bunlar gerçek anomalilerdir (outlier).
+Çekilen veri ve kaydedilen alarmlar/anomaliler sürekli bu repositorye kaydedilecektir.
